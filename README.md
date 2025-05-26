@@ -1,16 +1,10 @@
 # Instagram-Clone
 A responsive and pixel-perfect clone of the Instagram login page built using HTML and CSS. This project was created as a frontend, accurately mimicking the design and layout of Instagram’s official login interface.
-# Instagram Login Page Clone
-
-A responsive and visually accurate clone of the Instagram login page created using HTML and CSS. This project was developed as part of a college assignment to replicate real-world UI using front-end technologies.
-
----
 
 ## ✨ Features
 
 * Clean, Instagram-like layout
 * Facebook login with circular icon
-* App download buttons with Google Play and Microsoft logos
 * Fully responsive design
 * Pixel-perfect styling
 
