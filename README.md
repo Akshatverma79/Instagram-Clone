@@ -1,14 +1,30 @@
-# Instagram-Clone
-A responsive and pixel-perfect clone of the Instagram login page built using HTML and CSS. This project was created as a frontend, accurately mimicking the design and layout of Instagram’s official login interface.
+# Instagram Login Page Clone (Full-Stack)
 
-## ✨ Features
+This project is a full-stack **Instagram login page clone** built using **HTML, CSS, JavaScript**, with a backend using **Node.js, Express.js**, and **MongoDB** for data storage.
 
-* Clean, Instagram-like layout
-* Facebook login with circular icon
-* Fully responsive design
-* Pixel-perfect styling
+> ✅ Created as a college project for learning full-stack web development.
 
 ---
+
+## 🔥 Features
+
+- ✅ Frontend clone of Instagram login page
+- 💾 MongoDB database integration
+- 🧠 Backend server with Node.js + Express
+- ⚠️ Login alert before redirect
+- 📤 User credentials stored temporarily (for demo)
+- 🌐 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend      | Backend        | Database  |
+|---------------|----------------|-----------|
+| HTML, CSS, JS | Node.js, Express | MongoDB (Mongoose) |
+
+---
+
 
 ## 📂 Project Structure
 
